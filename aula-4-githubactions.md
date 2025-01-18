@@ -1,0 +1,1 @@
+- Github Actions tem esse nome por causa do conseito com actions que são trechos de código para agilizar o serviço como actions para fazer login do docker,aws
